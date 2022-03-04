@@ -14,6 +14,7 @@ $   Follow the same Units system as the one specified for the solver in the "Sol
 $ =======
 $ CONVERT A FRICTIONLESS CONTACT TO A BONDED CONTACT AT A SPECIFIED BIRTH TIME
 $ =======
+$ Units: [length]=millimeter, [force]=Newton, [time]=seconds, [temperature]=Kelvin (nmm)
 $ spr=1: slave side forces included in database
 $ mpr=1: master side forces included in database
 $ fs=1: static coefficient of friction = 1
