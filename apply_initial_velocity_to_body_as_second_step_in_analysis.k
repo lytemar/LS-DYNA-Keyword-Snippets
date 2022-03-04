@@ -5,6 +5,7 @@ $ initial prestress occurred from 0 - 0.05 sec.
 $ ==============================
 *INITIAL_VELOCITY_GENERATION
 $ sid: part id ('LS-DYNA User Named Selection ID' in the Named Selection: part_set_1
+$ Units: [length]=millimeter, [force]=Newton, [time]=seconds, [temperature]=Kelvin
 $ vx,vy,vz, initial velocity in mm/s
 $ phase: =1 means the starting time of initial velocity will be the 'STIME' in the *...START_TIME keyword
 $ Details see pg. 2644 of LS-DYNA MANUAL VOLUME I for R12
